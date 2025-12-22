@@ -1,0 +1,42 @@
+# Vendor dependencies
+/vendor/
+composer.lock
+
+# IDE files
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+.DS_Store
+
+# Environment variables
+.env
+.env.local
+.env.production
+
+# Test output
+phpunit.xml
+.phpunit.result.cache
+coverage/
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+*.tmp
+*.temp
+*.cache
+
+# Private business documents
+COMMERCIALIZATION_PLAN.md
+BUSINESS_*.md
+STRATEGY*.md
+*PRIVE*.md
+NOTES_PERSO.md
+TRANSLATION_SUMMARY.md
+UPDATE_SUMMARY.md
+
+# OS files
+Thumbs.db
+.DS_Store
